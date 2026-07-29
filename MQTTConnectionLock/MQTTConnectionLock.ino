@@ -47,8 +47,8 @@ void reconnectMQTT() {
 
     if (mqttClient.connect(
       "SmartLockArduino001",
-      "darpan",
-      "274291"
+      "Username",
+      "Password"
     )) {
 
       Serial.println("Connected!");
