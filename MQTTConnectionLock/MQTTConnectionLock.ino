@@ -4,13 +4,13 @@
 
 // Wifi
 
-char ssid[] = "DarpiU";
-char pass[] = "Nirma@13302922";
+char ssid[] = "xxx";
+char pass[] = "yyy";
 
 
 // MQTT
 
-const char* mqttServer = "10.0.0.227";
+const char* mqttServer = "gggg";
 const int mqttPort = 1883;
 
 WiFiClient wifiClient;
